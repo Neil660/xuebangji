@@ -24,10 +24,7 @@ screenshots/
 firebase-service-account.json
 
 # IDE
-.idea/workspace.xml
-.idea/shelf/
-.idea/dataSources/
-*.iml
+.idea/
 
 # 系统文件
 .DS_Store
